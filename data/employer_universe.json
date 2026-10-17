@@ -1,0 +1,17 @@
+{
+  "as_of": "2026-10-17",
+  "target_unique_employers": 1,
+  "selection_notes": [
+    "Invented example, not the author's employer selection."
+  ],
+  "cohorts": [
+    {
+      "key": "example",
+      "signal": "synthetic",
+      "source_url": "https://example.com",
+      "employers": [
+        "Example Analytics"
+      ]
+    }
+  ]
+}

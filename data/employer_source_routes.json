@@ -1,0 +1,11 @@
+{
+  "as_of": "2026-10-17",
+  "employer_count": 1,
+  "employers": [
+    {
+      "employer": "Example Analytics",
+      "strategy": "example_only",
+      "candidates": []
+    }
+  ]
+}

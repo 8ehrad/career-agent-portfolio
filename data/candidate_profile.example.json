@@ -1,0 +1,139 @@
+{
+  "version": "synthetic-example-v1",
+  "identity": {
+    "name": "Example Candidate",
+    "location": "Bristol, UK",
+    "email": "candidate@example.com",
+    "linkedin": "https://example.com/profile",
+    "github": "https://example.com/code",
+    "portfolio": "https://portfolio.example.com"
+  },
+  "current_position": {
+    "title": "Data Scientist",
+    "company": "Example Analytics",
+    "location": "Bristol, UK",
+    "started": "2024-01-01"
+  },
+  "years_experience": 4,
+  "preferences": {
+    "country": "United Kingdom",
+    "preferred_city": "Bristol",
+    "target_roles": [
+      "Data Scientist",
+      "AI Engineer"
+    ],
+    "excluded_role_patterns": [
+      "frontend engineer"
+    ],
+    "workplace_order": [
+      "Bristol hybrid",
+      "UK remote",
+      "UK hybrid",
+      "UK relocation"
+    ],
+    "target_salary_gbp": 62000,
+    "exceptional_move_floor_gbp": 52000,
+    "relocation_floor_gbp": 82000,
+    "values": [],
+    "interesting_sectors": [],
+    "digest_recipient": "candidate@example.com"
+  },
+  "skills": {
+    "expert": [
+      "Python",
+      "SQL",
+      "Machine Learning",
+      "NLP",
+      "Statistics"
+    ],
+    "strong": [
+      "AWS",
+      "RAG",
+      "LLM Engineering",
+      "Terraform",
+      "GCP",
+      "BigQuery",
+      "Model Evaluation"
+    ],
+    "working": [
+      "Docker",
+      "PyTorch",
+      "MCP",
+      "Agentic AI",
+      "Bedrock",
+      "Vertex AI"
+    ]
+  },
+  "experience": [
+    {
+      "title": "Data Scientist",
+      "company": "Example Analytics",
+      "location": "Bristol, UK",
+      "from": "2024-01",
+      "to": "2025-12",
+      "evidence_ids": [
+        "EXAMPLE-PYTHON"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "MSc Data Science",
+      "institution": "Example University",
+      "result": "Completed",
+      "from": "2022",
+      "to": "2023"
+    }
+  ],
+  "evidence": [
+    {
+      "id": "EXAMPLE-PYTHON",
+      "category": "professional",
+      "claim": "Built a synthetic Python and SQL machine learning pipeline.",
+      "skills": [
+        "Python",
+        "SQL",
+        "Machine Learning"
+      ],
+      "source": "synthetic fixture"
+    },
+    {
+      "id": "EXAMPLE-APP",
+      "category": "portfolio",
+      "claim": "Built a synthetic AWS application with retrieval and Terraform.",
+      "skills": [
+        "AWS",
+        "RAG",
+        "Terraform"
+      ],
+      "source": "synthetic fixture"
+    },
+    {
+      "id": "EXAMPLE-MODEL",
+      "category": "portfolio",
+      "claim": "Evaluated a synthetic PyTorch model.",
+      "skills": [
+        "PyTorch",
+        "Model Evaluation"
+      ],
+      "source": "synthetic fixture"
+    },
+    {
+      "id": "EXAMPLE-TOOLS",
+      "category": "portfolio",
+      "claim": "Built synthetic MCP tools for a local agent simulation.",
+      "skills": [
+        "MCP",
+        "Agentic AI"
+      ],
+      "source": "synthetic fixture"
+    }
+  ],
+  "claim_policy": {
+    "never_invent": true,
+    "coursework_is_not_professional_experience": true,
+    "do_not_expose_phone": true,
+    "do_not_reveal_confidential_employer_information": true
+  },
+  "_notice": "Entirely invented demo data. No salary, preferences, career evidence or identity of the author."
+}

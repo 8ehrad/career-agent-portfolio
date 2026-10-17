@@ -1,0 +1,7 @@
+# Historical template only; no live backend or account configuration.
+aws_region = "eu-west-2"
+owner_email = "candidate@example.com"
+cognito_user_pool_id = "eu-west-2_EXAMPLE"
+dashboard_custom_origin = "https://portfolio.example.com"
+schedule_state = "DISABLED"
+enable_aws_budget = false

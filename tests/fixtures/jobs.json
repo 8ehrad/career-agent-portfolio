@@ -1,0 +1,86 @@
+[
+  {
+    "id": "good-1",
+    "title": "Senior Data Scientist",
+    "company": "Northstar Fintech",
+    "location": "Bristol, UK",
+    "description": "Hybrid role. Own end-to-end production machine learning products using Python, SQL, AWS and experimentation. Requires 4 years of experience. Salary £65k to £78k.",
+    "url": "https://careers.example.com/northstar/senior-data-scientist?utm_source=test",
+    "salary": "£65,000 - £78,000 per year",
+    "posted_at": "2026-08-01"
+  },
+  {
+    "id": "good-2",
+    "title": "Applied AI Engineer",
+    "company": "Civic Intelligence",
+    "location": "Remote, United Kingdom",
+    "description": "UK remote. Build production LLM, RAG and agentic workflows on AWS with Python, Bedrock and Terraform. Experience with evaluation required. Salary £70,000–£85,000.",
+    "url": "https://jobs.example.com/civic/applied-ai",
+    "salary": "£70,000–£85,000"
+  },
+  {
+    "id": "good-3",
+    "title": "Machine Learning Engineer",
+    "company": "Health Data Labs",
+    "location": "Bristol, England",
+    "description": "Hybrid Python and GCP role building data pipelines, BigQuery features and deployed ML services. 3 years experience required. Salary £60k - £72k.",
+    "url": "https://jobs.example.com/health/ml-engineer",
+    "salary": "£60k - £72k"
+  },
+  {
+    "id": "good-4",
+    "title": "Applied Scientist",
+    "company": "Signal Works",
+    "location": "London, UK",
+    "description": "Hybrid applied machine learning, NLP and model evaluation role. Lead projects from experimentation to deployment. £75,000 to £90,000 salary.",
+    "url": "https://jobs.example.com/signal/applied-scientist"
+  },
+  {
+    "id": "good-5",
+    "title": "Generative AI Engineer",
+    "company": "Ledger AI",
+    "location": "Remote within the UK",
+    "description": "Build retrieval augmented and multi-agent systems using Python, MCP, AWS and Docker. £68k-£82k.",
+    "url": "https://jobs.example.com/ledger/genai"
+  },
+  {
+    "id": "low-salary",
+    "title": "Data Scientist",
+    "company": "Budget Analytics",
+    "location": "Bristol, UK",
+    "description": "Hybrid Python and SQL data science. Salary £42,000 to £48,000.",
+    "url": "https://jobs.example.com/budget/data-scientist"
+  },
+  {
+    "id": "software",
+    "title": "Frontend Engineer",
+    "company": "Web Co",
+    "location": "Remote, UK",
+    "description": "React and TypeScript role paying £90,000.",
+    "url": "https://jobs.example.com/web/frontend"
+  },
+  {
+    "id": "too-senior",
+    "title": "Director of Data Science",
+    "company": "Enterprise Corp",
+    "location": "London, UK",
+    "description": "Manage a team of 30. Requires 10+ years of experience. Salary £150,000.",
+    "url": "https://jobs.example.com/enterprise/director"
+  },
+  {
+    "id": "outside-uk",
+    "title": "Senior Data Scientist",
+    "company": "US Labs",
+    "location": "New York, United States",
+    "description": "Must be based in the US. Python machine learning role. Salary GBP £120,000.",
+    "url": "https://jobs.example.com/us/data"
+  },
+  {
+    "id": "duplicate-good-1",
+    "title": "Senior Data Scientist",
+    "company": "Northstar Fintech Ltd",
+    "location": "Bristol, UK",
+    "description": "Duplicate advert. Hybrid Python and SQL. Salary £65k to £78k.",
+    "url": "https://aggregator.example.com/northstar"
+  }
+]
